@@ -23,7 +23,7 @@ OWNER_NAME: process.env.OWNER_NAME || "✦ 𝕬𝖛𝖊.𝕭 ✦ XMD ✦",
 // add bot owner name
 DESCRIPTION: process.env.DESCRIPTION || "*© ✦ 𝕬𝖛𝖊.𝕭 ✦ XMD ✦*",
 // add bot owner name    
-ALIVE_IMG: process.env.ALIVE_IMG || "https://imgur.com/a/9ZCcihr",
+ALIVE_IMG: process.env.ALIVE_IMG || "https://imgur.com/a/9ZCcihr.jpg",
 // add img for alive msg
 LIVE_MSG: process.env.LIVE_MSG || "> SILVA SPARK IS SPARKING ACTIVE AND ALIVE\n\n\nKEEP USING 𝕬𝖛𝖊.𝕭 XMD FROM 𝕬𝖛𝖊.𝕭 TECH INC⚡",
 // add alive msg here 
